@@ -1,0 +1,25 @@
+station_id,city,station_name,capacity,latitude,longitude,has_charging_dock
+ST-100,Lyon,Part-Dieu,15,45.7025,4.8075,True
+ST-101,Lyon,Bellecour,20,45.77365,4.84767,True
+ST-102,Lyon,Perrache,40,45.74219,4.78298,True
+ST-103,Lyon,Tête d'Or,20,45.75054,4.78265,True
+ST-104,Lyon,Guillotière,40,45.74195,4.82492,False
+ST-105,Lyon,Villeurbanne Charpennes,15,45.77588,4.79597,False
+ST-106,Lyon,Gerland,25,45.72779,4.80153,False
+ST-107,Lyon,Croix-Rousse,15,45.70927,4.78967,False
+ST-108,Paris,Châtelet,40,48.82645,2.30435,False
+ST-109,Paris,Gare de Lyon,40,48.81248,2.39223,True
+ST-110,Paris,Montparnasse,40,48.82932,2.36286,False
+ST-111,Paris,Bastille,40,48.81923,2.30696,True
+ST-112,Paris,République,25,48.89852,2.38553,True
+ST-113,Paris,Eiffel,30,48.8278,2.36357,False
+ST-114,Paris,La Défense,20,48.83702,2.32095,False
+ST-115,Paris,Nation,15,48.86091,2.31711,True
+ST-116,Marseille,Vieux-Port,20,43.29623,5.34699,True
+ST-117,Marseille,Gare Saint-Charles,25,43.33429,5.3976,True
+ST-118,Marseille,Prado,15,43.3305,5.36012,True
+ST-119,Marseille,Castellane,20,43.34131,5.37672,False
+ST-120,Marseille,Joliette,20,43.31554,5.35956,False
+ST-121,Marseille,Timone,20,43.27649,5.34466,False
+ST-122,Marseille,Bonneveine,40,43.29284,5.37835,False
+ST-123,Marseille,Escale Borély,20,43.34973,5.33383,False
